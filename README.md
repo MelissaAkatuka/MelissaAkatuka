@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MelissaAkatuka
 - 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... front-end programming and how to use git & github
+- 🌱 I’m currently learning ... fullstack programming and how to use git & github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... melissa_akatsuka@hotmail.com
 
