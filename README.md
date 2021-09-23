@@ -21,13 +21,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelissaAkatuka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaAkatuka&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
 
-- 📫 How to reach me ... melissa_akatsuka@hotmail.com
-
-Thanks for visiting.
-
-Enjoy it!! o/
+- 📫 How to reach me... melissa.akatsuka@gmail.com
 
 <!---
 MelissaAkatuka/MelissaAkatuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
