@@ -1,15 +1,17 @@
+
+<img align="right" alt="Computer-Science-gif" height="350" width="350" src="https://user-images.githubusercontent.com/78980246/168445654-cc067cd9-08b6-49d6-97a1-741cfbefa013.gif"/>
+
 ## Hi, I'm Melissa Akatuka!
 
-:computer: I'm a Computer Science student at IFSP and I'm into both Front and Back-End development.
+• I'm a Computer Science student at IFSP and I'm into both Front and Back-End development
 
-:outbox_tray: 2022 Goals: Find a new job/internship and start to learn through hands-on experiences in IT companies.
+• 2022 Goals: Find a new job/internship and start to learn through hands-on experiences in IT companies
 
-<ul>
-<li>Take a look at my [LinkedIn](https://www.linkedin.com/in/melissa-akatuka-de-oliveira/)!</li>
-<li>English, Portuguese and Japanese</li>
-</ul>
+• English, Portuguese and Japanese
 
-![cs](https://user-images.githubusercontent.com/78980246/168445654-cc067cd9-08b6-49d6-97a1-741cfbefa013.gif)
+• Take a look at my [LinkedIn](https://www.linkedin.com/in/melissa-akatuka-de-oliveira/)!
+
+
 
 ## About me
 <div style="display: inline_block"><br>
