@@ -3,9 +3,7 @@
 
 ## Hi, I'm Melissa Akatuka!
 
-• I'm a Computer Science student at IFSP and I'm into both Front and Back-End development
-
-• 2022 Goals: Find a new job/internship and start to learn through hands-on experiences in IT companies
+• I'm a software developer at Dimensa (TOTVS + B3), a Computer Science student at IFSP and I'm into both Front and Back-End development
 
 • English, Portuguese and Japanese
 
