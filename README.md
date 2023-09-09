@@ -3,7 +3,7 @@
 
 ## Hi, I'm Melissa Akatuka!
 
-• I'm a software developer at Dimensa (TOTVS + B3), a Computer Science student at IFSP and I'm into both Front and Back-End development
+• I'm a software developer at Dimensa (TOTVS + B3), graduated in Computer Science at IFSP and I'm into Back-End/Full-Stack development
 
 • English, Portuguese and Japanese
 
